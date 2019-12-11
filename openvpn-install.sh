@@ -452,3 +452,4 @@ verb 3" > /etc/openvpn/server/client-common.txt
 	echo "Your client configuration is available at:" ~/"$client.ovpn"
 	echo "If you want to add more clients, just run this script again!"
 fi
+
